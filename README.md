@@ -85,6 +85,7 @@ Tailor marketing strategies based on demographic insights.
 Goal: Discover associations between products to enhance cross-selling and upselling strategies.
 Analysis: Conduct association rule mining on transaction data from Transactionsnew.csv to find frequently co-purchased products.
 Use insights to create targeted marketing campaigns that promote related product
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Analysis of E-commerce Retail Data
